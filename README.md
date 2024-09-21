@@ -1,5 +1,7 @@
 # Survival of the Best Fit - Group Engagement
 
+You can play the game here https://cdhaoui.github.io/survivalofthebestfit-group-engagement/
+
 This is an interactive simulation to explain AI bias in a fun group activity in-class or online using a live group voting mechanism.
 It is an extended version of the original game https://github.com/survivalofthebestfit/survivalofthebestfit, introducing group dynamics where students scan a QR code to join and start voting using their mobile devices.
 This helps boost students' engagement by turning the simulation into a collaborative learning experience rather than an individual activity.
