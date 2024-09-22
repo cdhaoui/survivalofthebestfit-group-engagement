@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', function() {
             element: document.getElementById('voters_qr'),
             size: 700,
             padding: 35,
-            value: 'https://cdhaoui.github.io/ai4ba-vote/#' + receiverID
+            value: 'https://cdhaoui.github.io/survivalofthebestfit-group-engagement/game/assets/vote.html#' + receiverID
         });
         peer.on('connection', (conn) => {
             voters++;
