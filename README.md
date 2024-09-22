@@ -12,9 +12,7 @@ Survival of the Best Fit is an educational web simulation to shed light on how A
 ## Group Engagement
 At the start of the game, students scan a QR code to join the teacher's session. Then, as candidates are displayed, students can take the role of recruiters and click "Accept" or "Reject" the candidates on their mobile devices to reflect their decisions. The results are displayed on the teacher's screen and projected to the class (or via video conference). Final decisions are based on the majority vote (to accept or reject a candidate), thereby highlighting group bias.
 
-## Acknowledgement
-Authors of the original Survival of the Best Fit ([individual game](https://github.com/survivalofthebestfit/survivalofthebestfit)):
-* Alia ElKattan
-* Miha Klasinc
-* Gabor Csapo
-* Jihyun Kim
+## Authors and Acknowledgement
+Group Engagement Edition Built by [Dr Chedia Dhaoui](https://www.unsw.edu.au/staff/chedia-dhaoui) based on the original game built by [Gabor Csapo](http://gaborcsapo.com/), [Jihyun Kim](https://www.linkedin.com/in/kimjihyun/), [Miha Klasinc](https://www.mklasinc.com/), and [Alia ElKattan](https://aliaelkattan.com/).
+
+The original Survival of the Best Fit game is available at https://github.com/survivalofthebestfit/survivalofthebestfit
